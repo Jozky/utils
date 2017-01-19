@@ -1,0 +1,72 @@
+2017-01-17 16:17:34 [Warn] [src/server/controller/api/admin.js:39:9] "admin-login-error"--
+
+2017-01-17 16:17:34 [Warn] [src/server/controller/api/admin.js:40:9] "connect ECONNREFUSED 192.168.1.160:3306"--
+
+2017-01-17 16:32:11 [Warn] [src/server/controller/api/admin.js:39:9] "admin-login-error"--
+
+2017-01-17 16:32:11 [Warn] [src/server/controller/api/admin.js:40:9] "ER_NO_SUCH_TABLE: Table 'blog.admin' doesn't exist"--
+
+2017-01-17 16:34:30 [Warn] [src/server/controller/api/admin.js:30:9] true--
+
+2017-01-17 16:34:40 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:34:56 [Warn] [src/server/controller/api/article.js:28:7] {"title":"123asdfasdf","content":"%3Cp%3Easdfasdfzxc%3C/p%3E","author":"vicky","point":"23","create_time":"2017-01-17 16:34:56"}--
+
+2017-01-17 16:34:56 [Warn] [src/server/controller/api/article.js:36:9] "article-add-success"--
+
+2017-01-17 16:34:58 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:35:02 [Warn] [src/server/controller/api/article.js:153:9] "article-findById-success"--
+
+2017-01-17 16:35:04 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:37:03 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:38:19 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:38:32 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:39:16 [Warn] [src/server/controller/api/article.js:28:7] {"title":"asdfasdfzsdfzxcvzxcv","content":"%3Cp%20style%3D%22text-align%3A%20center%3B%22%3Easdfasdfasdfsadfzxcvzxcv%3Cbr/%3E%3C/p%3E","author":"vicky","point":"23","create_time":"2017-01-17 16:39:16"}--
+
+2017-01-17 16:39:16 [Warn] [src/server/controller/api/article.js:36:9] "article-add-success"--
+
+2017-01-17 16:39:18 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:39:20 [Warn] [src/server/controller/api/article.js:153:9] "article-findById-success"--
+
+2017-01-17 16:39:24 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:39:28 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:39:39 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:39:40 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:39:50 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:39:52 [Warn] [src/server/controller/api/article.js:153:9] "article-findById-success"--
+
+2017-01-17 16:40:42 [Warn] [src/server/controller/api/admin.js:30:9] true--
+
+2017-01-17 16:40:59 [Warn] [src/server/controller/api/article.js:28:7] {"title":"adsfasdf","content":"%3Cp%3Easd%3Cspan%20style%3D%22color%3A%20rgb%28192%2C%200%2C%200%29%3B%22%3Efasdf%3C/span%3E%3C/p%3E","author":"vicky","point":"23","create_time":"2017-01-17 16:40:59"}--
+
+2017-01-17 16:40:59 [Warn] [src/server/controller/api/article.js:36:9] "article-add-success"--
+
+2017-01-17 16:41:01 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:41:02 [Warn] [src/server/controller/api/article.js:153:9] "article-findById-success"--
+
+2017-01-17 16:41:06 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:41:08 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:41:10 [Warn] [src/server/controller/api/article.js:153:9] "article-findById-success"--
+
+2017-01-17 16:41:13 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:41:21 [Warn] [src/server/controller/api/article.js:153:9] "article-findById-success"--
+
+2017-01-17 16:41:30 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+
+2017-01-17 16:41:34 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+

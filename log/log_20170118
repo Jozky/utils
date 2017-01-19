@@ -1,0 +1,12 @@
+2017-01-18 16:09:17 [Warn] [src/server/controller/api/admin.js:27:11] "admin-login-warn-username-error"--
+
+2017-01-18 16:09:22 [Warn] [src/server/controller/api/admin.js:27:11] "admin-login-warn-username-error"--
+
+2017-01-18 16:09:35 [Warn] [src/server/controller/api/admin.js:30:9] true--
+
+2017-01-18 16:09:41 [Warn] [src/server/controller/api/article.js:28:7] {"title":"dfsgadfg","content":"%3Cp%3Eafdsvadfv%3C/p%3E","author":"vicky","point":"23","create_time":"2017-01-18 16:09:41"}--
+
+2017-01-18 16:09:41 [Warn] [src/server/controller/api/article.js:36:9] "article-add-success"--
+
+2017-01-18 16:09:43 [Warn] [src/server/controller/api/article.js:122:11] "article-find-success"--
+

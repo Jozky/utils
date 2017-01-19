@@ -1,0 +1,38 @@
+{
+  "basic": {
+    "name": "vicky",
+    "domain": ""
+  },
+  "sequelize": {
+    "database": "blog",
+    "username": "web",
+    "password": "123456",
+    "options": {
+      "dialect": "mysql",
+      "host": "192.168.1.204",
+      "port": "3306",
+      "pool": {
+        "maxConnections": 5,
+        "minConnections": 0,
+        "maxIdleTime": 10000
+      }
+    }
+  },
+  "redis": {
+    "store": {
+      "host": "192.168.1.204",
+      "port": 6379,
+      "pass": "",
+      "ttl": 86400000, 
+      "db": 0, 
+      "prefix": "blog:sess:" 
+    },
+    "cookie": {
+      "domain": ".blog.com",
+      "maxAge": 86400000
+    },
+    "resave": false,
+    "saveUninitialized": false,
+    "secret": "SEKR37"
+    }
+}
