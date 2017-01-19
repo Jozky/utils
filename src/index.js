@@ -28,26 +28,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'build')));
 
-// var CONFIG = require('config');
-// session
-// app.use(session({
-//   store: new RedisStore({
-//     host:             CONFIG.get("redis.store.host"),
-//     port:             CONFIG.get("redis.store.port"),
-//     pass:             CONFIG.get("redis.store.pass"),
-//     ttl:              CONFIG.get("redis.store.ttl"), //redis过期时长 秒为单位
-//     db:               CONFIG.get("redis.store.db"), // redis DB index
-//     prefix:           CONFIG.get("redis.store.prefix") // session redis 前缀
-//   }),
-//   cookie: {
-//     domain:           CONFIG.get("redis.cookie.domain"),
-//     maxAge:           CONFIG.get("redis.cookie.maxAge")//cookie过期时长  毫秒为单位
-//   },
-//   resave:             CONFIG.get("redis.resave"),
-//   saveUninitialized:  CONFIG.get("redis.saveUninitialized"),
-//   secret:             CONFIG.get("redis.secret"),
-// }));
-
 app.use(session({
     secret: '12345',
     name: 'blog',   //这里的name值得是cookie的name，默认cookie的name是：connect.sid
